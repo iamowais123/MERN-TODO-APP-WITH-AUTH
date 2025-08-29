@@ -52,3 +52,7 @@ root
 │   └── package.json
 │
 └── README.md
+
+## 🔗 Live Demo
+🚀 [Click here to try the app](#)  
+(Currently not deployed – will be added soon)
